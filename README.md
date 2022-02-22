@@ -10,7 +10,7 @@
 
 ## Sobre o Projeto
 <div align="center">
-    <img align="center" src="https://gitlab.com/4mti_solucoes/cidade2030/-/raw/master/Imagens/Cidade2030.png" alt="Cidade2030" />
+    <img align="center" src="https://raw.githubusercontent.com/Amanda1303/Cidade2030/main/Cidade2030.png" alt="Cidade2030" />
 </div>
 
 O **Cidade 2030** é um portal web aberto que objetiva apresentar, de forma visual e de fácil compreensão, o nível de desenvolvimento sustentável de cada município brasileiro, tendo como base os 17 Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 proposta pela ONU em 2015. O portal sintetiza e analisa diversos indicadores de desenvolvimento divulgados por entidades públicas, permitindo a avaliação do grau de desenvolvimento de cada município e auxiliando no planejamento, participação e execução de estratégias que levem ao desenvolvimento sustentável das cidades.
@@ -55,19 +55,19 @@ A 4mti é uma empresa especializada em soluções de alta tecnologia e dados pú
 Conheça nossas soluções:
 
 <div align="center">
-    <a href="https://4mti.com.br/solucoes/cotz" target="blank"><img align="center" src="https://gitlab.com/4mti_solucoes/cidade2030/-/raw/master/Imagens/cotz.png" alt="cotz" height="90" width="210" /></a>
+    <a href="https://4mti.com.br/solucoes/cotz" target="blank"><img align="center" src="https://raw.githubusercontent.com/Amanda1303/Cidade2030/main/cotz.png" alt="cotz" height="90" width="210" /></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://4mti.com.br/solucoes/diagnostico-publico" target="blank"><img align="center" src="https://gitlab.com/4mti_solucoes/cidade2030/-/raw/master/Imagens/diagnostico-publico.png" alt="diagnostico-publico" height="100" width="200" /></a>
+    <a href="https://4mti.com.br/solucoes/diagnostico-publico" target="blank"><img align="center" src="https://raw.githubusercontent.com/Amanda1303/Cidade2030/main/diagnostico-publico.png" alt="diagnostico-publico" height="100" width="200" /></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://4mti.com.br/solucoes/dataself" target="blank"><img align="center" src="https://gitlab.com/4mti_solucoes/cidade2030/-/raw/master/Imagens/dataself.png" alt="dataself" height="90" width="200" /></a>
+    <a href="https://4mti.com.br/solucoes/dataself" target="blank"><img align="center" src="https://raw.githubusercontent.com/Amanda1303/Cidade2030/main/dataself.png" alt="dataself" height="90" width="200" /></a>
 </div>
 
 E nossos outros projetos sociais:
 
 <div align="center">
-    <a href="https://4mti.com.br/projetos-sociais" target="blank"><img align="center" src="https://gitlab.com/4mti_solucoes/cidade2030/-/raw/master/Imagens/fiscalize-agora.png" alt="fiscalize-agora" height="66" width="302" /></a>
+    <a href="https://4mti.com.br/projetos-sociais" target="blank"><img align="center" src="https://raw.githubusercontent.com/Amanda1303/Cidade2030/main/fiscalize-agora.png" alt="fiscalize-agora" height="66" width="302" /></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://4mti.com.br/projetos-sociais" target="blank"><img align="center" src="https://gitlab.com/4mti_solucoes/cidade2030/-/raw/master/Imagens/compare-covid19.png" alt="compare-covid19" height="100" width="200" /></a>
+    <a href="https://4mti.com.br/projetos-sociais" target="blank"><img align="center" src="https://raw.githubusercontent.com/Amanda1303/Cidade2030/main/compare-covid19.png" alt="compare-covid19" height="100" width="200" /></a>
 </div>
 
 ## Nos siga nas redes sociais!
